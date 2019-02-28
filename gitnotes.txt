@@ -1,0 +1,7 @@
+git saves snapshots
+set up global commands
+initialize
+add
+commit
+
+choose which files
